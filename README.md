@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jdre1
 - 👀 I’m interested in Python, R programming and Data Science
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on enhancing programming and data science skills.
 - 📫 How to reach me linkedin URL: www.linkedin.com/in/jarosław-dremlik-0802643
 
